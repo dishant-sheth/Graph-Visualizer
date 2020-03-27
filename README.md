@@ -1,7 +1,7 @@
 # Graph-Visualizer
 A java-based tool to visualize graphs from their edge representations.
 
-Use the below input format to generate your graphs - 
+Use the below input format to generate your graphs - <br/>
 n m <br/>
 src<sub>i</sub> dest<sub>i</sub> <br/>
 src<sub>i</sub> dest<sub>i</sub> <br/>
