@@ -8,10 +8,10 @@ src<sub>i</sub> dest<sub>i</sub>
 ...
 src<sub>i</sub> dest<sub>i</sub>
 
-where,
-n - number of nodes.
-m - number of edges. 1 <= i <= m
-src - source node in the i<sup>th</sup> edge
-dest - destination node in the i<sup>th</sup> edge
+where, <br/>
+n - number of nodes <br/>
+m - number of edges, such that 1 <= i <= m <br/>
+src - source node in the i<sup>th</sup> edge <br/>
+dest - destination node in the i<sup>th</sup> edge <br/>
 
 ![Screenshot](docs/demo.png)
